@@ -1,0 +1,9 @@
+14:14:13.078 [main] INFO  c.x.s.SpringsecurityApiApplicationTests - [logStarting,55] - Starting SpringsecurityApiApplicationTests using Java 11.0.13 on DESKTOP-52FJRML with PID 41084 (started by yxw in D:\my files\my code\code\springsecurity\springsecurity-api)
+14:14:13.086 [main] INFO  c.x.s.SpringsecurityApiApplicationTests - [logStartupProfileInfo,637] - No active profile set, falling back to default profiles: default
+14:14:14.884 [main] INFO  c.x.s.SpringsecurityApiApplicationTests - [logStarted,61] - Started SpringsecurityApiApplicationTests in 2.064 seconds (JVM running for 3.063)
+14:14:42.081 [main] INFO  c.x.s.SpringsecurityApiApplicationTests - [logStarting,55] - Starting SpringsecurityApiApplicationTests using Java 11.0.13 on DESKTOP-52FJRML with PID 44164 (started by yxw in D:\my files\my code\code\springsecurity\springsecurity-api)
+14:14:42.084 [main] INFO  c.x.s.SpringsecurityApiApplicationTests - [logStartupProfileInfo,637] - No active profile set, falling back to default profiles: default
+14:14:43.668 [main] INFO  c.x.s.SpringsecurityApiApplicationTests - [logStarted,61] - Started SpringsecurityApiApplicationTests in 1.86 seconds (JVM running for 2.688)
+14:22:26.160 [main] INFO  c.x.s.SpringsecurityApiApplicationTests - [logStarting,55] - Starting SpringsecurityApiApplicationTests using Java 11.0.13 on DESKTOP-52FJRML with PID 44048 (started by yxw in D:\my files\my code\code\springsecurity\springsecurity-api)
+14:22:26.163 [main] INFO  c.x.s.SpringsecurityApiApplicationTests - [logStartupProfileInfo,637] - No active profile set, falling back to default profiles: default
+14:22:27.805 [main] INFO  c.x.s.SpringsecurityApiApplicationTests - [logStarted,61] - Started SpringsecurityApiApplicationTests in 1.921 seconds (JVM running for 2.76)

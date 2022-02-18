@@ -1,0 +1,15 @@
+server:
+  port: 9002
+spring:
+  application:
+    name: order-service
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.58.100:8848
+    sentinel:
+      transport:
+        # 添加sentinel的控制台地址
+        dashboard: 192.168.58.100:8858
+        # 指定应用与Sentinel控制台交互的端口，应用本地会起一个该端口占用的HttpServer
+        # port: 8719

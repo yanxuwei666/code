@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: nacos-config # nacos配置名称，和nacos服务器上配置的一致
+  cloud:
+    nacos:
+      config:
+        file-extension: yaml # 配置文件格式
+        namespace: public
+        server-addr: 192.168.58.100:8848 # nacos中心地址
+  profiles:
+    active: dev # 环境标识
