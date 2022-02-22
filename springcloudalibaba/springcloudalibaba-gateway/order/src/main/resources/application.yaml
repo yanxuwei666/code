@@ -1,0 +1,19 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: order-service
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.58.50:8848
+    gateway:
+      routes: #设置路由：路由id、路由到微服务的uri、断言
+        - id: path_router  #路由ID，全局唯一
+          uri: http://www.baidu.com  #目标微服务的请求地址和端口，lb表示从nacos中拿
+          predicates:
+            - Path=/order/**
+          filters:
+            - RedirectTo=302, https://www.douban.com/
+
