@@ -1,0 +1,15 @@
+server:
+  port: 9090
+
+spring:
+  application:
+    name: order-service
+  cloud:
+    gateway:
+      routes:
+        - id: order_route
+          uri: https://www.baidu.com
+          predicates:
+            - Path=/order/**
+          filters:
+            - AddRequestHeader=X-Request-color, red  #添加请求头

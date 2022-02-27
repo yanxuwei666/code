@@ -1,0 +1,24 @@
+server:
+  port: 8083
+spring:
+  application:
+    name: openFeign-consumer
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.58.50:8848
+management:
+  endpoints:
+    web:
+      exposure:
+        ## yml文件中存在特殊字符，必须用单引号包含，否则启动报错
+        include: '*'
+
+feign:
+  client:
+    config:
+      openFeign-consumer:  #对应微服务名称
+        loggerLevel: FULL
+logging:
+  level:
+    com.xuwei.openfeignconsumer8083.service: debug
