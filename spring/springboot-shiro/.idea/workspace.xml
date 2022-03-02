@@ -4,16 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecc1d636-586c-43ea-b50a-2160d4b74166" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/../demo-parent/shiro-demo/src/test/java/com/xuwei/test/TestSalt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xuwei/shiro/config/ShiroConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xuwei/shiro/config/security/CustomerRealm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xuwei/shiro/controller/IndexController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shiro.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/xuwei/shiro/test/CustomerRealm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/xuwei/shiro/test/TestAuthenticator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springcloud-integration/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springcloud-dubbo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-dubbo/pom.xml" afterDir="false" />
+    <list default="true" id="5f4405cc-00b9-4142-8e98-2f99b2b4302e" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/../../algorithm/src/main/java/com/xuwei/arr/Exchange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/src/main/java/com/xuwei/arr/MaxSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/src/main/java/com/xuwei/arr/SearchNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-demo/shiro-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-demo/shiro-demo/src/main/java/com/xuwei/shiro/ShiroApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-demo/shiro-demo/src/main/java/com/xuwei/shiro/controller/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-demo/shiro-demo/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/xuwei/springbootshiro/TestUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xuwei/shiro/config/ShiroConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xuwei/shiro/config/security/CustomerRealm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xuwei/shiro/controller/IndexController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/shiro.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/xuwei/shiro/test/CustomerRealm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/xuwei/shiro/test/TestAuthenticator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xuwei/shiro/authentication/CustomerRealm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xuwei/shiro/authentication/TestAuthenticator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/shiro.ini" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +37,15 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -41,7 +58,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="25aZo3mle5dCljN2F2u33fUOmYr" />
+  <component name="ProjectId" id="25iawiUG0zYAPkIQHqO4DZJGDJz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -51,52 +68,107 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\my files\my code\code\springboot-shiro\src\test\java" />
+      <recent name="D:\my files\my code\code\springboot-shiro\src\main\java\com\xuwei\springbootshiro\controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\my code\code\spring\springboot-shiro\src\main\java\com\xuwei\springbootshiro\mapper" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.xuwei.shiro.config.security" />
+      <recent name="com.xuwei.springbootshiro.common.domain" />
+      <recent name="com.xuwei.springbootshiro.security" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="TestAuthenticator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuwei.shiro.test.TestAuthenticator" />
+  <component name="RunManager" selected="Spring Boot.SpringbootShiroApplication">
+    <configuration name="JwtTokenTest.testJwtToken" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="springboot-shiro" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuwei.shiro.test.*" />
+          <option name="PATTERN" value="com.xuwei.springbootshiro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.xuwei.springbootshiro" />
+      <option name="MAIN_CLASS_NAME" value="com.xuwei.springbootshiro.JwtTokenTest" />
+      <option name="METHOD_NAME" value="testJwtToken" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootShiroApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-shiro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuwei.springbootshiro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuwei.springbootshiro" />
+      <option name="MAIN_CLASS_NAME" value="com.xuwei.springbootshiro.SpringbootShiroApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUserService.testGetUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-shiro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuwei.springbootshiro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuwei.springbootshiro" />
+      <option name="MAIN_CLASS_NAME" value="com.xuwei.springbootshiro.TestUserService" />
+      <option name="METHOD_NAME" value="testGetUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootShiroApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-shiro" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuwei.springbootshiro.SpringbootShiroApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.TestAuthenticator" />
+        <item itemvalue="JUnit.SpringbootShiroApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.TestUserService.testGetUser" />
+        <item itemvalue="JUnit.JwtTokenTest.testJwtToken" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="ecc1d636-586c-43ea-b50a-2160d4b74166" name="变更" comment="" />
-      <created>1645767331079</created>
+      <changelist id="5f4405cc-00b9-4142-8e98-2f99b2b4302e" name="变更" comment="" />
+      <created>1646012602824</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1645767331079</updated>
-      <workItem from="1645767332207" duration="5505000" />
-      <workItem from="1645776437486" duration="11000" />
-      <workItem from="1645777170878" duration="306000" />
+      <updated>1646012602824</updated>
+      <workItem from="1646012603907" duration="6097000" />
+      <workItem from="1646025356641" duration="1334000" />
+      <workItem from="1646035648851" duration="1299000" />
     </task>
     <servers />
   </component>
@@ -118,18 +190,43 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/com/xuwei/shiro/test/CustomerRealm.java</url>
-          <line>35</line>
-          <properties class="com.xuwei.shiro.test.CustomerRealm" method="doGetAuthorizationInfo">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xuwei/springbootshiro/controller/LoginController.java</url>
+          <line>22</line>
+          <properties class="com.xuwei.springbootshiro.controller.LoginController" method="login">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xuwei/springbootshiro/security/JwtCredentialsMatcher.java</url>
+          <line>11</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/xuwei/shiro/test/TestAuthenticator.java</url>
-          <line>19</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/xuwei/springbootshiro/security/JwtToken.java</url>
+          <line>9</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xuwei/springbootshiro/security/JwtTokenFilter.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xuwei/springbootshiro/security/JwtTokenRealm.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xuwei/springbootshiro/security/JwtTokenUtil.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xuwei/springbootshiro/security/StatelessSubjectFactory.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -1,19 +1,18 @@
 package com.xuwei.shiro.controller;
 
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
 
 /**
  * @Description TODO
- * @Date 2022/2/25 16:02
+ * @Date 2022/2/28 16:27
  * @Author yxw
  */
-@Controller
+@RestController
 public class IndexController {
-    @GetMapping("index")
+
+    @GetMapping
     public String index() {
-        System.out.println("跳转至主页");
         return "index";
     }
 }
