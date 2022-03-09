@@ -6,14 +6,11 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * @Description TODO
- * @Date 2022/3/4 16:09
+ * @Date 2022/3/7 10:29
  * @Author yxw
  */
 @RestController
-public class LoginController {
-
+public class UserController {
     @Autowired
-    private SysUserService sysUserService;
-
-
+    SysUserService sysUserService;
 }
