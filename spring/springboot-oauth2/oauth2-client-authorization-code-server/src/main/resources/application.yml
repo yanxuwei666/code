@@ -1,6 +1,11 @@
 spring:
   application:
     name: client-authcode
+  boot:
+    admin:
+      client:
+        url:
+          - http://localhost:9001
 server:
   port: 8082
   servlet:
@@ -21,3 +26,8 @@ security:
     authorization:
       check-token-access: http://localhost:8080/oauth/check_token
 
+management:
+  endpoints:
+    web:
+      exposure:
+        include: all
