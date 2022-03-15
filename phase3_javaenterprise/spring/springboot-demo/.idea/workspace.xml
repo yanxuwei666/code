@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d24b66af-5129-496a-9349-d65518af6af8" name="变更" comment="变更">
+      <change afterPath="$PROJECT_DIR$/../../algorithm/src/main/java/com/xuwei/string/FirstUniqChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/common/AjaxResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/common/HttpStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/common/JsonResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/common/ResultCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/common/ResultTool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/config/CustomizeAbstractSecurityInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/config/CustomizeAccessDecisionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/config/CustomizeFilterInvocationSecurityMetadataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/config/handler/CustomizeAccessDeniedHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/config/handler/CustomizeAuthenticationEntryPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/config/handler/CustomizeAuthenticationFailureHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/config/handler/CustomizeAuthenticationSuccessHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/config/handler/CustomizeLogoutSuccessHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/domain/SysPermission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/domain/SysRequestPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/domain/SysRequestPathPermissionRelation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/domain/SysRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/domain/SysRolePermissionRelation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/domain/SysUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/domain/SysUserRoleRelation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/form/LoginBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/form/RegisterBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/mapper/SysPermissionMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/mapper/SysRequestPathMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/mapper/SysRequestPathPermissionRelationMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/mapper/SysRoleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/mapper/SysRolePermissionRelationMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/mapper/SysUserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/mapper/SysUserRoleRelationMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/service/SysPermissionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/service/SysRequestPathPermissionRelationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/service/SysRequestPathService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/service/SysRolePermissionRelationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/service/SysRoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/service/SysUserRoleRelationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/service/SysUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/service/impl/SysPermissionServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/service/impl/SysRequestPathPermissionRelationServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/service/impl/SysRequestPathServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/service/impl/SysRolePermissionRelationServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/service/impl/SysRoleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/service/impl/SysUserRoleRelationServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/service/impl/SysUserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/service/impl/UserDetailsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/resources/mapper/SysPermissionMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/resources/mapper/SysRequestPathMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/resources/mapper/SysRequestPathPermissionRelationMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/resources/mapper/SysRoleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/resources/mapper/SysRolePermissionRelationMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/resources/mapper/SysUserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/main/resources/mapper/SysUserRoleRelationMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/test/java/com/xuwei/security/TestBCryptPasswordEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/test/java/com/xuwei/security/TestMyBatisPlus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-security/src/test/java/com/xuwei/security/TestUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-oauth2/src/main/java/com/xuwei/oauth2/OauthApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-jjwt/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-jjwt/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-security/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-security/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-security/src/main/java/com/xuwei/security/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-security/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-security/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-security/src/main/resources/static/login.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="HTML File" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../configuration/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\configuration\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="25jLR65tgOK9wPI2a99kkFGWvIT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springboot-security2/src/main/resources" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="ts.external.directory.path" value="D:\software location\IntelliJ IDEA 2021.1.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\my code\code\spring\springboot-demo\springboot-security2\src\main\resources" />
+      <recent name="D:\my code\code\spring\springboot-demo\springboot-security2\src\main\java" />
+      <recent name="D:\my code\code\spring\springboot-demo\springboot-security\src\main\java\com\xuwei\security" />
+      <recent name="D:\my code\code\spring\springboot-demo\shiro-demo\src\main\java\com\xuwei\shiro\common" />
+      <recent name="D:\my code\code\spring\springboot-demo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\my code\code\spring\springboot-demo\shiro-demo\src\test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xuwei.shiro.common.utils" />
+      <recent name="mapper" />
+      <recent name="com.xuwei.shiro.security" />
+      <recent name="com.xuwei.shiro.security.realm" />
+      <recent name="com.xuwei.shiro.dto" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestUserDetailsService.testUserDetailsService">
+    <configuration name="JjwtTest.testParseToken" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-jjwt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuwei.jjwt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuwei.jjwt" />
+      <option name="MAIN_CLASS_NAME" value="com.xuwei.jjwt.JjwtTest" />
+      <option name="METHOD_NAME" value="testParseToken" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBCryptPasswordEncoder.testBCryptPasswordEncoder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-security" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuwei.security.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuwei.security" />
+      <option name="MAIN_CLASS_NAME" value="com.xuwei.security.TestBCryptPasswordEncoder" />
+      <option name="METHOD_NAME" value="testBCryptPasswordEncoder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMyBatisPlus.testSysUserMapper" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-security" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuwei.security.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuwei.security" />
+      <option name="MAIN_CLASS_NAME" value="com.xuwei.security.TestMyBatisPlus" />
+      <option name="METHOD_NAME" value="testSysUserMapper" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUserDetailsService.testUserDetailsService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-security" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuwei.security.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuwei.security" />
+      <option name="MAIN_CLASS_NAME" value="com.xuwei.security.TestUserDetailsService" />
+      <option name="METHOD_NAME" value="testUserDetailsService" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot-security" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuwei.security.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuwei.security.SecurityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestUserDetailsService.testUserDetailsService" />
+        <item itemvalue="Spring Boot.SecurityApplication" />
+        <item itemvalue="JUnit.TestBCryptPasswordEncoder.testBCryptPasswordEncoder" />
+        <item itemvalue="JUnit.TestMyBatisPlus.testSysUserMapper" />
+        <item itemvalue="JUnit.JjwtTest.testParseToken" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="d24b66af-5129-496a-9349-d65518af6af8" name="变更" comment="" />
+      <created>1646035541264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646035541264</updated>
+      <workItem from="1646035542393" duration="2002000" />
+      <workItem from="1646037577945" duration="290000" />
+      <workItem from="1646037936106" duration="13000" />
+      <workItem from="1646182871585" duration="308000" />
+      <workItem from="1646183874794" duration="51000" />
+      <workItem from="1646184641550" duration="67000" />
+      <workItem from="1646184724873" duration="408000" />
+      <workItem from="1646185185347" duration="118000" />
+      <workItem from="1646185430181" duration="16000" />
+      <workItem from="1646185463054" duration="99000" />
+      <workItem from="1646185583938" duration="81000" />
+      <workItem from="1646185850773" duration="9397000" />
+      <workItem from="1646200607685" duration="5251000" />
+      <workItem from="1646208669039" duration="1064000" />
+      <workItem from="1646210715665" duration="345000" />
+      <workItem from="1646269323335" duration="13710000" />
+      <workItem from="1646289961467" duration="4112000" />
+      <workItem from="1646355087093" duration="5516000" />
+      <workItem from="1646363451264" duration="1725000" />
+      <workItem from="1646371022322" duration="942000" />
+      <workItem from="1646372134988" duration="633000" />
+      <workItem from="1646380768692" duration="1225000" />
+      <workItem from="1646614559654" duration="72000" />
+      <workItem from="1646614662048" duration="13222000" />
+      <workItem from="1646633041704" duration="2891000" />
+      <workItem from="1646726396608" duration="953000" />
+      <workItem from="1646727435630" duration="253000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/vue-ui" />
+      <path value="$PROJECT_DIR$/vue-admin-template" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/shiro-demo/src/test/java/com/xuwei/ShiroTest.java</url>
+          <line>17</line>
+          <properties class="com.xuwei.ShiroTest">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

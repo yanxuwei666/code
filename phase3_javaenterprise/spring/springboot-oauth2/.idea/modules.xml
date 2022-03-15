@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/oauth2-auth-server/oauth2-auth-server.iml" filepath="$PROJECT_DIR$/oauth2-auth-server/oauth2-auth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2-client-authorization-code-server/oauth2-client-authorization-code-server.iml" filepath="$PROJECT_DIR$/oauth2-client-authorization-code-server/oauth2-client-authorization-code-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2-client-order-server/oauth2-client-order-server.iml" filepath="$PROJECT_DIR$/oauth2-client-order-server/oauth2-client-order-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2-client-user-server/oauth2-client-user-server.iml" filepath="$PROJECT_DIR$/oauth2-client-user-server/oauth2-client-user-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sba-server/sba-server.iml" filepath="$PROJECT_DIR$/sba-server/sba-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-oauth2.iml" filepath="$PROJECT_DIR$/springboot-oauth2.iml" />
+    </modules>
+  </component>
+</project>

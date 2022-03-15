@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78bdb5c4-cdaa-4e82-b3d2-ac1ecf41e9bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/java-algorithm/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-designpatterns/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/src/main/java/com/xuwei/arr/Exchange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/src/main/java/com/xuwei/arr/GetLeastNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/src/main/java/com/xuwei/arr/IntersectionAndUnion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/src/main/java/com/xuwei/arr/MajorityElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/src/main/java/com/xuwei/arr/MaxSubArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/src/main/java/com/xuwei/arr/MinArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/src/main/java/com/xuwei/arr/PrintNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/src/main/java/com/xuwei/arr/RepeatNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/src/main/java/com/xuwei/arr/SearchNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/src/main/java/com/xuwei/string/FirstUniqChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/src/main/java/com/xuwei/string/MaxPower.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/src/main/java/com/xuwei/string/ReplaceSpace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../designPatterns/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../designPatterns/src/main/java/com/xuwei/builder/case01/Clent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../designPatterns/src/main/java/com/xuwei/builder/case01/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../designPatterns/src/main/java/com/xuwei/builder/case02/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../designPatterns/src/main/java/com/xuwei/builder/case02/ComputerBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../designPatterns/src/main/java/com/xuwei/builder/case02/ComputerDirector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../designPatterns/src/main/java/com/xuwei/builder/case02/LenovoComputerBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../designPatterns/src/main/java/com/xuwei/builder/case02/MacComputerBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../designPatterns/src/main/java/com/xuwei/builder/case02/client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../designPatterns/src/main/java/com/xuwei/builder/case02/nginx.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../designPatterns/src/main/java/com/xuwei/builder/case02/首页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-jjwt/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-jjwt/src/main/java/com/xuwei/jjwt/JjwtApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-jjwt/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-jjwt/src/test/java/com/xuwei/jjwt/JjwtTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-oauth2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/SecurityApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/common/AjaxResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/common/HttpStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/common/JsonResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/common/ResultCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/common/ResultTool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/config/CustomizeAbstractSecurityInterceptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/config/CustomizeAccessDecisionManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/config/CustomizeFilterInvocationSecurityMetadataSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/config/handler/CustomizeAccessDeniedHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/config/handler/CustomizeAuthenticationEntryPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/config/handler/CustomizeAuthenticationFailureHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/config/handler/CustomizeAuthenticationSuccessHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/config/handler/CustomizeLogoutSuccessHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/controller/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/controller/TestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/domain/SysPermission.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/domain/SysRequestPath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/domain/SysRequestPathPermissionRelation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/domain/SysRole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/domain/SysRolePermissionRelation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/domain/SysUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/domain/SysUserRoleRelation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/form/LoginBody.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/form/RegisterBody.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/mapper/SysPermissionMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/mapper/SysRequestPathMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/mapper/SysRequestPathPermissionRelationMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/mapper/SysRoleMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/mapper/SysRolePermissionRelationMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/mapper/SysUserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/mapper/SysUserRoleRelationMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/service/SysPermissionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/service/SysRequestPathPermissionRelationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/service/SysRequestPathService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/service/SysRolePermissionRelationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/service/SysRoleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/service/SysUserRoleRelationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/service/SysUserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/service/impl/SysPermissionServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/service/impl/SysRequestPathPermissionRelationServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/service/impl/SysRequestPathServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/service/impl/SysRolePermissionRelationServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/service/impl/SysRoleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/service/impl/SysUserRoleRelationServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/service/impl/SysUserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/java/com/xuwei/security/service/impl/UserDetailsServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/resources/mapper/SysPermissionMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/resources/mapper/SysRequestPathMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/resources/mapper/SysRequestPathPermissionRelationMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/resources/mapper/SysRoleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/resources/mapper/SysRolePermissionRelationMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/resources/mapper/SysUserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/main/resources/mapper/SysUserRoleRelationMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/test/java/com/xuwei/security/TestBCryptPasswordEncoder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/test/java/com/xuwei/security/TestMyBatisPlus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-demo/springboot-security/src/test/java/com/xuwei/security/TestUserDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-example/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-example/src/main/java/com/xuwei/core/constant/HttpStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-example/src/main/java/com/xuwei/core/domain/AjaxResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-example/src/main/java/com/xuwei/test/TestAjaxResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-example/src/test/java/com/xuwei/controller/TestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-oauth2/oauth2-auth-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-oauth2/oauth2-auth-server/src/main/java/com/xuwei/auth/AuthApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-oauth2/oauth2-auth-server/src/main/java/com/xuwei/auth/OauthAuthApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-oauth2/oauth2-auth-server/src/main/java/com/xuwei/auth/config/JWTokenEnhancer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-oauth2/oauth2-auth-server/src/main/java/com/xuwei/auth/config/JwtTokenConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-oauth2/oauth2-auth-server/src/main/java/com/xuwei/auth/config/OAuth2Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-oauth2/oauth2-auth-server/src/main/java/com/xuwei/auth/config/RedisTokenStoreConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-oauth2/oauth2-auth-server/src/main/java/com/xuwei/auth/config/WebSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-oauth2/oauth2-auth-server/src/main/java/com/xuwei/auth/controller/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-oauth2/oauth2-auth-server/src/main/java/com/xuwei/auth/service/KiteUserDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-oauth2/oauth2-auth-server/src/main/java/com/xuwei/auth/test/TestBCryptPasswordEncoder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-oauth2/oauth2-auth-server/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-oauth2/oauth2-auth-server/src/test/java/com/xuwei/auth/TestBypassword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-oauth2/oauth2-client-authorization-code-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-oauth2/oauth2-client-authorization-code-server/src/main/java/com/xuwei/authorization/AuthorizationApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-oauth2/oauth2-client-authorization-code-server/src/main/java/com/xuwei/authorization/config/ResourceServerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-oauth2/oauth2-client-authorization-code-server/src/main/java/com/xuwei/authorization/controller/CodeClientController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-oauth2/oauth2-client-authorization-code-server/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-oauth2/oauth2-client-authorization-code-server/src/main/resources/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-oauth2/oauth2-client-order-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-oauth2/oauth2-client-user-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-oauth2/oauth2-client-user-server/src/main/java/com/xuwei/oauth/OauthUserApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-oauth2/oauth2-client-user-server/src/main/java/com/xuwei/oauth/config/ResourceServerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-oauth2/oauth2-client-user-server/src/main/java/com/xuwei/oauth/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-oauth2/oauth2-client-user-server/src/main/java/com/xuwei/user/UserApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-oauth2/oauth2-client-user-server/src/main/java/com/xuwei/user/config/ResourceServerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-oauth2/oauth2-client-user-server/src/main/java/com/xuwei/user/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-oauth2/oauth2-client-user-server/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-oauth2/sba-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-oauth2/sba-server/src/main/java/com/xuwei/sba/SBAApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-oauth2/sba-server/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springboot-shiro/src/test/java/com/xuwei/springbootshiro/TestUserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/common/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/common/src/main/java/com/xuwei/common/domain/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/common/src/main/java/com/xuwei/common/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/common/target/classes/com/xuwei/common/domain/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/common/target/classes/com/xuwei/common/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/order-consumer/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/order-consumer/src/main/java/com/xuwei/consumer/OrderConsumerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/order-consumer/src/main/java/com/xuwei/consumer/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/order-consumer/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/order-consumer/target/classes/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/order-consumer/target/classes/com/xuwei/consumer/OrderConsumerApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/order-consumer/target/classes/com/xuwei/consumer/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/pay-provider/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/pay-provider/src/main/java/com/xuwei/provider/PayProviderApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/pay-provider/src/main/java/com/xuwei/provider/service/impl/PayStorageServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/pay-provider/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/pay-provider/target/classes/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/pay-provider/target/classes/com/xuwei/provider/PayProviderApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/pay-provider/target/classes/com/xuwei/provider/service/impl/PayStorageServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/storage-api/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/storage-api/src/main/java/com/xuwei/storage/service/StorageService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/storage-api/src/main/java/com/xuwei/storage/service/StorageServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/storage-api/target/classes/com/xuwei/storage/service/StorageService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/storage-api/target/classes/com/xuwei/storage/service/StorageServiceImpl$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/storage-api/target/classes/com/xuwei/storage/service/StorageServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/user-provider/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/user-provider/src/main/java/com/xuwei/provider/UserProviderApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/user-provider/src/main/java/com/xuwei/provider/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/user-provider/src/main/java/com/xuwei/provider/service/impl/UserStorageServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/user-provider/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/user-provider/target/classes/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/user-provider/target/classes/com/xuwei/provider/UserProviderApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/user-provider/target/classes/com/xuwei/provider/service/ProviderStorageServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/user-provider/target/classes/com/xuwei/provider/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-dubbo/user-provider/target/classes/com/xuwei/provider/service/impl/UserStorageServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloud-integration/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloud-dubbo/common/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloud-dubbo/common/src/main/java/com/xuwei/common/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloud-dubbo/dubbo-consumer/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloud-dubbo/dubbo-consumer/src/main/java/com/xuwei/consumer/DubboConsumerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloud-dubbo/dubbo-consumer/src/main/java/com/xuwei/consumer/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloud-dubbo/dubbo-consumer/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloud-dubbo/dubbo-consumer/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloud-dubbo/dubbo-consumer/target/classes/com/xuwei/consumer/DubboConsumerApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloud-dubbo/dubbo-consumer/target/classes/com/xuwei/consumer/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloud-dubbo/dubbo-provider/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloud-dubbo/dubbo-provider/src/main/java/com/xuwei/provider/DubboProviderApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloud-dubbo/dubbo-provider/src/main/java/com/xuwei/provider/service/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloud-dubbo/dubbo-provider/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloud-dubbo/dubbo-provider/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloud-dubbo/dubbo-provider/target/classes/com/xuwei/provider/DubboProviderApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloud-dubbo/dubbo-provider/target/classes/com/xuwei/provider/service/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloud-dubbo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-common/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-common/src/main/java/com/xuwei/common/SpringcloudalibabaCommonApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-common/src/main/java/com/xuwei/common/controller/IndexController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-common/src/main/resources/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-common/src/test/java/com/xuwei/common/SpringcloudalibabaCommonApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-common/target/classes/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-common/target/classes/com/xuwei/common/SpringcloudalibabaCommonApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-common/target/classes/com/xuwei/common/controller/IndexController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-common/target/test-classes/com/xuwei/common/SpringcloudalibabaCommonApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-dubbo/dubbo-consumer/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-dubbo/dubbo-consumer/src/main/java/com/xuwei/consumer/DubboConsumerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-dubbo/dubbo-consumer/src/main/java/com/xuwei/consumer/controller/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-dubbo/dubbo-consumer/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-dubbo/dubbo-interface/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-dubbo/dubbo-interface/src/main/java/com/xuwei/service/HelloService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-dubbo/dubbo-provider/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-dubbo/dubbo-provider/src/main/java/com/xuwei/provider/DubboProviderApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-dubbo/dubbo-provider/src/main/java/com/xuwei/provider/service/HelloServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-dubbo/dubbo-provider/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-dubbo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-dubbo/src/main/java/com/xuwei/dubbo/DubboApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-dubbo/src/main/java/com/xuwei/dubbo/controller/TestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-dubbo/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-gateway/order/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-gateway/order/src/main/java/com/xuwei/order/GatewayOrderApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-gateway/order/src/main/java/com/xuwei/order/config/factory/CheckAuthGatewayFilterFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-gateway/order/src/main/java/com/xuwei/order/controller/OrderController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-gateway/order/src/main/resources/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-gateway/order/target/classes/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-gateway/order/target/classes/com/xuwei/order/GatewayOrderApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-gateway/order/target/classes/com/xuwei/order/config/factory/CheckAuthGatewayFilterFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-gateway/order/target/classes/com/xuwei/order/controller/OrderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-gateway/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-gateway/stock/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-gateway/stock/src/main/java/com/xuwei/stock/GatewayStockApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-gateway/stock/src/main/java/com/xuwei/stock/controller/StockController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-gateway/stock/src/main/resources/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-gateway/stock/target/classes/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-gateway/stock/target/classes/com/xuwei/stock/GatewayStockApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-gateway/stock/target/classes/com/xuwei/stock/controller/StockController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-gateway/target/classes/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-gateway/target/classes/com/xuwei/gateway/GateWayApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-gateway/target/classes/com/xuwei/gateway/controller/IndexController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-gateway/target/classes/com/xuwei/gateway/controller/TestController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/openFeign-consumer8083/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/openFeign-consumer8083/src/main/java/com/xuwei/openfeignconsumer8083/OpenFeignConsumer8083Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/openFeign-consumer8083/src/main/java/com/xuwei/openfeignconsumer8083/controller/OpenFeignConsumerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/openFeign-consumer8083/src/main/java/com/xuwei/openfeignconsumer8083/service/OpenFeignService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/openFeign-consumer8083/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/openFeign-consumer8083/src/test/java/com/xuwei/openfeignconsumer8083/OpenFeignConsumer8083ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/openFeign-consumer8083/target/classes/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/openFeign-consumer8083/target/classes/com/xuwei/openfeignconsumer8083/OpenFeignConsumer8083Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/openFeign-consumer8083/target/classes/com/xuwei/openfeignconsumer8083/controller/OpenFeignConsumerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/openFeign-consumer8083/target/classes/com/xuwei/openfeignconsumer8083/service/OpenFeignService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/openFeign-consumer8083/target/test-classes/com/xuwei/openfeignconsumer8083/OpenFeignConsumer8083ApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/openfeign-provider8082/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/openfeign-provider8082/src/main/java/com/xuwei/openfeignprovider8082/OpenfeignProvider8082Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/openfeign-provider8082/src/main/java/com/xuwei/openfeignprovider8082/controller/OpenFeignProviderController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/openfeign-provider8082/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/openfeign-provider8082/src/test/java/com/xuwei/openfeignprovider8082/OpenfeignProvider8082ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/openfeign-provider8082/target/classes/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/openfeign-provider8082/target/classes/com/xuwei/openfeignprovider8082/OpenfeignProvider8082Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/openfeign-provider8082/target/classes/com/xuwei/openfeignprovider8082/controller/OpenFeignProviderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/openfeign-provider8082/target/test-classes/com/xuwei/openfeignprovider8082/OpenfeignProvider8082ApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/order-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/order-service/src/main/java/com/xuwei/orderservice/OrderServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/order-service/src/main/java/com/xuwei/orderservice/config/RedisConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/order-service/src/main/java/com/xuwei/orderservice/controller/OrderController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/order-service/src/main/java/com/xuwei/orderservice/controller/TestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/order-service/src/main/java/com/xuwei/orderservice/entity/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/order-service/src/main/java/com/xuwei/orderservice/entity/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/order-service/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/order-service/src/test/java/com/xuwei/orderservice/OrderServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/order-service/target/classes/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/order-service/target/classes/com/xuwei/orderservice/OrderServiceApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/order-service/target/classes/com/xuwei/orderservice/config/RedisConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/order-service/target/classes/com/xuwei/orderservice/controller/OrderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/order-service/target/classes/com/xuwei/orderservice/controller/TestController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/order-service/target/classes/com/xuwei/orderservice/controller/TestController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/order-service/target/classes/com/xuwei/orderservice/entity/Order$OrderBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/order-service/target/classes/com/xuwei/orderservice/entity/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/order-service/target/classes/com/xuwei/orderservice/entity/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/order-service/target/test-classes/com/xuwei/orderservice/OrderServiceApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/stock-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/stock-service/src/main/java/com/xuwei/stockservice/StockServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/stock-service/src/main/java/com/xuwei/stockservice/controller/StockController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/stock-service/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/stock-service/src/test/java/com/xuwei/stockservice/StockServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/stock-service/target/classes/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/stock-service/target/classes/com/xuwei/stockservice/StockServiceApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/stock-service/target/classes/com/xuwei/stockservice/controller/StockController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springcloudalibaba/springcloudalibaba-nacos/stock-service/target/test-classes/com/xuwei/stockservice/StockServiceApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/src/main/java/com/sangeng/TokenApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/src/main/java/com/sangeng/config/CorsConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/src/main/java/com/sangeng/config/RedisConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/src/main/java/com/sangeng/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/src/main/java/com/sangeng/controller/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/src/main/java/com/sangeng/controller/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/src/main/java/com/sangeng/domain/LoginUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/src/main/java/com/sangeng/domain/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/src/main/java/com/sangeng/domain/ResponseResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/src/main/java/com/sangeng/domain/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/src/main/java/com/sangeng/expression/SGExpressionRoot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/src/main/java/com/sangeng/filter/JwtAuthenticationTokenFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/src/main/java/com/sangeng/handler/AccessDeniedHandlerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/src/main/java/com/sangeng/handler/AuthenticationEntryPointImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/src/main/java/com/sangeng/mapper/MenuMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/src/main/java/com/sangeng/mapper/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/src/main/java/com/sangeng/service/LoginServcie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/src/main/java/com/sangeng/service/impl/LoginServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/src/main/java/com/sangeng/service/impl/UserDetailsServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/src/main/java/com/sangeng/utils/FastJsonRedisSerializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/src/main/java/com/sangeng/utils/JwtUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/src/main/java/com/sangeng/utils/RedisCache.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/src/main/java/com/sangeng/utils/WebUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/src/main/resources/mapper/MenuMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/src/test/java/com/sangeng/MapperTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/target/classes/com/sangeng/TokenApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/target/classes/com/sangeng/config/CorsConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/target/classes/com/sangeng/config/RedisConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/target/classes/com/sangeng/config/SecurityConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/target/classes/com/sangeng/controller/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/target/classes/com/sangeng/controller/LoginController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/target/classes/com/sangeng/domain/LoginUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/target/classes/com/sangeng/domain/Menu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/target/classes/com/sangeng/domain/ResponseResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/target/classes/com/sangeng/domain/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/target/classes/com/sangeng/expression/SGExpressionRoot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/target/classes/com/sangeng/filter/JwtAuthenticationTokenFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/target/classes/com/sangeng/handler/AccessDeniedHandlerImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/target/classes/com/sangeng/handler/AuthenticationEntryPointImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/target/classes/com/sangeng/mapper/MenuMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/target/classes/com/sangeng/mapper/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/target/classes/com/sangeng/service/LoginServcie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/target/classes/com/sangeng/service/impl/LoginServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/target/classes/com/sangeng/service/impl/UserDetailsServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/target/classes/com/sangeng/utils/FastJsonRedisSerializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/target/classes/com/sangeng/utils/JwtUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/target/classes/com/sangeng/utils/RedisCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/target/classes/com/sangeng/utils/WebUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/target/classes/mapper/MenuMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/springsecurity/target/test-classes/com/sangeng/MapperTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\configuration\maven\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../configuration/maven/apache-maven-3.8.4" />
+        <option name="userSettingsFile" value="D:\configuration\maven\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="26PZcxGEXLkZaNCGkWZ1MIrANJ7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78bdb5c4-cdaa-4e82-b3d2-ac1ecf41e9bb" name="Default Changelist" comment="" />
+      <created>1647327266192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647327266192</updated>
+      <workItem from="1647327268150" duration="20000" />
+      <workItem from="1647327314619" duration="108000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

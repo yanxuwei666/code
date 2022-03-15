@@ -1,0 +1,23 @@
+server:
+  port: 8082
+
+spring:
+  application:
+    name: user-provider
+  profiles:
+    active: dev
+  cloud:
+    nacos:
+      config:
+        server-addr: 192.168.58.50:8848
+        file-extension: yml
+      discovery:
+        server-addr: 192.168.58.50:8848
+dubbo:
+  application:
+    name: ${spring.application.name}
+  registry:
+    address: nacos://192.168.58.50:8848
+  protocol: # dubbo协议端口默认20880，rmi协议默认1099，http和hessian协议默认80，如果没有配置端口，采用默认。如果端口为-1，则分配一个未占用的端口。
+    name: dubbo
+    port: 20881
