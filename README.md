@@ -1,37 +1,12 @@
 # code
 
 #### 介绍
-Java代码
+Java学习代码
 
-#### 软件架构
-软件架构说明
+#### 代码架构
+- phase1_javabase：java入门相关代码，包括面向对象、容器、多线程、设计模式、数据结构与算法等。
+- phase2_javaadvanced：java进阶相关代码，包括JavaWeb、数据库连接访问、前端等。
+- phase3_javaenterprise：java企业级开发相关代码，包括Spring、SpringBoot、SpringCloud等。
+- phase4_javatools：java常用工具相关代码，包括Git、Maven、IDEA等。
+- phase5_javainternalworkloading：java内功心法相关代码，包括Linux服务器、CICD、测试、计算机网络等。
 
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
