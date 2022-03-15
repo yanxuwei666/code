@@ -1,7 +1,0 @@
-server:
-  port: 8081
-dubbo:
-  application:
-    name: consumer-service
-  registry:
-    address: zookeeper://192.168.58.50:2181

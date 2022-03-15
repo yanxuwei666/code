@@ -1,7 +1,0 @@
-server:
-  port: 8082
-dubbo:
-  application:
-    name: provide-service
-  registry:
-    address: zookeeper://192.168.58.50:2181
